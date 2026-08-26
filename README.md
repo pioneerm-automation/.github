@@ -1,3 +1,1 @@
-# pioneerm-automation/.github
-
-Organization 首頁 README 在 [`profile/README.md`](profile/README.md)。
+[請用 member 身份進入](https://github.com/pioneerm-automation?view_as=member)
